@@ -38,4 +38,6 @@ Dev/
 key.txt
 src/*
 !src/*.cpp
+!src/*.sh
 Makefile
+!kernel_module/demo/Makefile
